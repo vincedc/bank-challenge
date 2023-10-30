@@ -1,0 +1,16 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "sinon": "^17.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./src/**/**.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
